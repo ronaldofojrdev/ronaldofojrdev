@@ -1,3 +1,5 @@
+![Ronaldo Ferreira, desenvolvedor full stack](banner.png)
+
 # Olá, eu sou o Ronaldo
 
 Desenvolvedor Full Stack (React, Node.js e Python), de São Gonçalo, RJ. Comecei como estagiário de front-end e hoje trabalho como desenvolvedor full stack e Product Owner em uma empresa de software pequena, a Green Code.
@@ -16,6 +18,7 @@ O código dos projetos de empresas e clientes é privado. Aqui estão os que sã
 - [portfolio](https://github.com/ronaldofojrdev/portfolio): o site do meu portfólio
 - [freelas-bot](https://github.com/ronaldofojrdev/freelas-bot): bot em Python que avalia projetos do 99Freelas com um modelo local (Ollama)
 - [atendente-whatsapp-clinicas](https://github.com/ronaldofojrdev/atendente-whatsapp-clinicas): atendente de WhatsApp com IA para clínicas, em Node e TypeScript
+- [Condofy](https://github.com/ronaldofojrdev/Condofy): gestão de condomínios com Next.js e Supabase (em desenvolvimento)
 
 ## Stack
 
