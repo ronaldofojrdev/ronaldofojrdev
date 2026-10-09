@@ -47,4 +47,4 @@ Também uso Azure DevOps, Jira, Confluence, SQL, Power BI e Scrum no dia a dia.
 
 - LinkedIn: [ronaldo-ferreira-dev](https://www.linkedin.com/in/ronaldo-ferreira-dev/)
 - E-mail: ronaldofojr1@gmail.com
-- Aberto a vagas de implantação, requisitos e produto (CLT ou PJ), remoto ou híbrido no RJ
+- Aberto a vagas de implantação, requisitos e produto (CLT ou PJ), remoto, híbrido ou presencial no RJ e região
